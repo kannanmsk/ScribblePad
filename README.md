@@ -46,9 +46,9 @@ Font Color - You can change the colour of the font of the selected text through 
 
 File Compare - If you want to compare your current file with another text or .java file for similarities, this FileCompare feature will be of aid to you. FileCompare compares the current .txt or .java with another file specified by you for similarities. This feature can be used by clicking Tools-> File Compare.
 
-Send Mail - You can send a selected text as a mail to a desired mail ID. If you want to mail a selected text, select the text, click Tools -> Send Mail or right click anywhere on the textarea and choose SendMail from the right click menu. Enter the mail address to which the mail has to be sent and click send. 
+Send Mail (Java Mail API) - You can send a selected text as a mail to a desired mail ID. If you want to mail a selected text, select the text, click Tools -> Send Mail or right click anywhere on the textarea and choose SendMail from the right click menu. Enter the mail address to which the mail has to be sent and click send. 
 
-Send text - You can send a selected text as a text to a desired valid US phone number. If you want to text a selected text, select the text, click Tools -> Send SMS or right click anywhere on the textarea and choose SendSMS from the right click menu. Enter the US phone number to which the SMS has to be sent and click send. 
+Send text (Twilio API) - You can send a selected text as a text to a desired valid US phone number. If you want to text a selected text, select the text, click Tools -> Send SMS or right click anywhere on the textarea and choose SendSMS from the right click menu. Enter the US phone number to which the SMS has to be sent and click send. 
 
 About - Help -> About has a detailed description of ScribblePad and its features. 
 
