@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/activation.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/commons-discovery-0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/commons-validator-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/javamail.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/org.apache.httpcomponents.httpcore_4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="E:/Acad/ModernProgrammingInJava/CIS551/FinalProject/ScribblePad/lib/twilio-java-sdk-5.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
